@@ -1,4 +1,4 @@
-# python_oficina_mecanica
+# Desenvolvido sistema conforme orientações abaixo - Segemento Oficina Mecanica
 Trabalho em grupo do Bootcamp - Sistema de oficina mecânica 
 
 
