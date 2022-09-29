@@ -1,4 +1,4 @@
-# Desenvolvido sistema conforme orientações abaixo - Segemento Oficina Mecanica
+# Sistema em Python - Segmento Oficina Mecanica
 Trabalho em grupo do Bootcamp - Sistema de oficina mecânica 
 
 
